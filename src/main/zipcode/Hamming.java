@@ -1,4 +1,4 @@
-package zipcode;
+package src.main.zipcode;
 
 public class Hamming {
     public Hamming(String s, String s1) {
